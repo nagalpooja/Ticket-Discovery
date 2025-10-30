@@ -48,7 +48,7 @@ Customers are the users of the application who are interested in discovering and
 
 To set up the project locally, please follow these steps:
 
-1. Clone the project repository from [GitHub](https://github.com/SalahEddine-Ghannouch/GetTicket_Events_Django.git).
+1. Clone the project repository from [GitHub](https://github.com/nagalpooja/Ticket-Discovery).
 
 2. Install the required dependencies by running the command `pip install -r requirements.txt` in your terminal.
 
