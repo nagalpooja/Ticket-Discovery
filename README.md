@@ -1,4 +1,4 @@
-# Event Management and Reservation Web Application
+# Event Discovery System
 <img width="942" alt="p1" src="https://github.com/SalahEddine-Ghannouch/GetTicket_Events_Django/assets/79339578/241bb844-1c45-4856-a1db-596ec8ec7bee">
 <img width="942" alt="p2" src="https://github.com/SalahEddine-Ghannouch/GetTicket_Events_Django/assets/79339578/8d1d02b6-900c-402f-b342-648acdb1a3d3">
 
